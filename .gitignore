@@ -1,0 +1,6 @@
+.venv/
+glove.6B/
+
+*.keras
+*.joblib
+*.csv
